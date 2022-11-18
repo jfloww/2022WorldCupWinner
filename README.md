@@ -27,7 +27,7 @@ Wokred with Goolge Colab and Jupyter Notebook
 
 
 
-working process of predicting the winner of 2022 Qatar World Cup <br>
+<strong>working process of predicting the winner of 2022 Qatar World Cup</strong> <br>
 First Draft: 2022-11-09, Data collected <br> 
 Second Draft: 2022-11-10 <br>
 Third Draft: 2022-11-12, Feature Selection(engineering) <br>
