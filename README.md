@@ -21,11 +21,13 @@ Data Source:
 - fifaRanking2020-10-06: https://www.kaggle.com/datasets/cashncarry/fifaworldranking (modified by Jay Jung)<br>
 
 Data Modification: Modified data because the affecting data for this World Cup are up to 10 years. <br>
-Wokred with Goolge Colab and Jupyter Notebook
+Wokred with Goolge Colab and Jupyter Notebook<br> <br>
 
 
 
-
+posted: 
+https://www.kaggle.com/code/jaehoonjung98/2022-qatar-world-cup/notebook <br>
+https://jayjung98.github.io/project/worldCup2022Simulation/<br>
 
 <strong>working process of predicting the winner of 2022 Qatar World Cup</strong> <br>
 First Draft: 2022-11-09, Data collected <br> 
