@@ -25,7 +25,7 @@ Wokred with Goolge Colab and Jupyter Notebook<br> <br>
 
 
 
-posted: 
+posted: <br>
 https://www.kaggle.com/code/jaehoonjung98/2022-qatar-world-cup/notebook <br>
 https://jayjung98.github.io/project/worldCup2022Simulation/<br>
 
