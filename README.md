@@ -36,4 +36,4 @@ Third Draft: 2022-11-12, Feature Selection(engineering) <br>
 Fourth Draft: 2022-11-14, Simulation Started<br>
 Fifth Draft: 2022-11-16, Simulation Updated<br>
 Sixth Draft: 2022-11-17, Visualization Updated<br>
-Final Draft: 2022-11-23, Readme Conslision
+Final Draft: 2022-11-23, Readme Conclusion
