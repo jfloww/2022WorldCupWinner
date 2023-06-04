@@ -30,6 +30,7 @@ https://www.kaggle.com/code/jaehoonjung98/2022-qatar-world-cup/notebook <br>
 https://jayjung98.github.io/project/worldCup2022Simulation/<br>
 
 Result: <br>
+- The expected winner of 2022 Qatar World Cup is Brazil <br>
 ![image](https://user-images.githubusercontent.com/113634739/234612342-3e134570-afa9-4112-9d17-a0b906bc783d.png)
 
 <strong>working process of predicting the winner of 2022 Qatar World Cup</strong> <br>
